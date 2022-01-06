@@ -5,5 +5,7 @@ A empresa OLDTech Ltda. utiliza dois sistemas distintos para cadastro de vendas,
 Devem ser entregues:
 
 Os códigos desenvolvidos.
+
 Um cronograma apresentando quem fez o que e quando.
+
 Uma apresentação em slides apresentando o desenvolvimento criado.
